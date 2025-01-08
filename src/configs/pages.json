@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Home",
+    "title": "Home",
+    "link": "/",
+    "body": [
+      "This is my home page for testing ideas built using Solid JS. This may change at times as I experiment with ideas I have.",
+      "The source code for this site is available on <a href=\"https://github.com/toilled/toille-solid\" target=\"_blank\">this GitHub repository</a>."
+    ]
+  },
+  {
+    "name": "About",
+    "title": "About Me",
+    "link": "/about",
+    "body": [
+      "I am a BSc (Hons) graduate who has been confident working with computers in some way for most of my life.",
+      "I have around 13 years experience in software/web development primarily using PHP but also JavaScript at times."
+    ]
+  },
+  {
+    "name": "Interests",
+    "title": "My Interests",
+    "link": "interests",
+    "body": [
+      "I develop new code ideas as a hobby in my spare time, actively keeping a check on new languages.",
+      "I keep up to date with music and play musical instruments including the guitar. I've previously uploaded some music I made on <a href=\"https://www.youtube.com/@toilled\" target=\"_blank\">YouTube</a>."
+    ]
+  }
+]
